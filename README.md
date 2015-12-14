@@ -18,6 +18,6 @@ vagrant ssh
 
 ## Check correct installation
 
-Navigate to http://localhost:8080 on your host machine. 
+Navigate to [localhost:8080](http://localhost:8080) on your host machine. 
 
-To login to the admin dashboard use admin:acklerackler.
+To login to the admin dashboard use 'admin:acklerackler'.
